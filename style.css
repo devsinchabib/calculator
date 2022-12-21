@@ -1,0 +1,14 @@
+.our-row input{
+    width:15rem;
+} 
+.our-row{
+    gap: 3px;
+}
+.column-conatiner{
+    gap: 3px;
+
+}
+.var-input{
+    
+    width:30rem !important;
+}
